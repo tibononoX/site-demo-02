@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "name": "The Garden Guide",
+  "initial": "G",
+  "trade": "landscaper",
+  "tradeLabel": "David Ting, qualified horticulturist · West Pymble, Sydney",
+  "theme": { "mode": "dark", "accent": "#29c402", "display": "serif", "hero": "split" },
+  "hero": {
+    "eyebrow": "David Ting · Qualified horticulturist MAIH",
+    "title": "Water features, garden design",
+    "titleEm": "and construction.",
+    "lead": "David Ting specialises in water features, computer generated landscape impressions, design and construction, from his base in West Pymble.",
+    "image": "Pymble01.jpg",
+    "alt": "Garden pond with koi, ferns and a stone edge at a Pymble home"
+  },
+  "rating": { "score": "4.8", "count": 18, "source": "Google" },
+  "intro": {
+    "title": "A qualified horticulturist since the 1980s",
+    "paragraphs": [
+      "David began his career in the mid-1980s in the nursery industry and is a Member of the Australian Institute of Horticulture.",
+      "He graduated in the Associate Diploma in Horticulture in 1984 at Hawkesbury Agricultural College. As a qualified horticulturist, David now specialises in water features, computer generated landscape impressions, design and construction."
+    ],
+    "facts": ["MAIH", "Assoc Dip Hort", "Hawkesbury Agricultural College"]
+  },
+  "services": {
+    "title": "What David can do for your garden",
+    "items": [
+      { "title": "Water features", "text": "One of David's specialist areas. See the recent projects below for examples of water features he has worked on." },
+      { "title": "Computer generated landscape impressions", "text": "See your landscape come to life before any soil is dug: plants, paving and retaining walls, shown before you make a final decision." },
+      { "title": "Landscape design and construction", "text": "Design and construction of your garden by a qualified horticulturist." },
+      { "title": "Specialist areas", "text": "David's other areas of expertise:", "bullets": ["Camellias", "Pruning", "Koi fish", "Irrigation systems"] }
+    ]
+  },
+  "band": { "image": "IMG_546672dpi.jpg", "alt": "Lit water feature and planting at night" },
+  "gallery": {
+    "title": "Recent projects",
+    "items": [
+      { "image": "Vaucluse03.jpg", "alt": "Black reflecting pool with a white sculpture fountain", "caption": "Vaucluse" },
+      { "image": "StIves01.jpg", "alt": "Red glazed pot planted with a palm and grasses", "caption": "St Ives" },
+      { "image": "mtinga.jpg", "alt": "Courtyard with timber deck, rendered planters and lighting", "caption": "Pymble Mews" },
+      { "image": "IMG_1780-72dpi.jpg", "alt": "Terrace with planting and stone wall under construction", "caption": "Palm Beach, Barrenjoey Rd" },
+      { "image": "MGO03.jpg", "alt": "Three blue sphere fountains in a dark pool", "caption": "Modern Group Office" },
+      { "image": "slide2.jpg", "alt": "Large natural pond with rocks and a red pavilion", "caption": "Water features" }
+    ]
+  },
+  "steps": {
+    "title": "See your garden before we start",
+    "items": [
+      { "title": "We photograph your garden", "text": "We photograph the area to be landscaped using a digital camera." },
+      { "title": "We landscape it virtually", "text": "With sophisticated software, we 'virtually' landscape the area to create a realistic impression of the completed project." },
+      { "title": "You approve, then we build", "text": "We show you the simulated result, so you are completely satisfied before we commence the project." }
+    ]
+  },
+  "contact": {
+    "title": "Talk to David about your garden",
+    "lead": "Call David on his mobile or send him an email.",
+    "phones": [
+      { "label": "Mobile", "display": "0418 211 216", "tel": "+61418211216" },
+      { "label": "Phone", "display": "(02) 9499 9668", "tel": "+61294999668" }
+    ],
+    "email": "david@thegardenguide.com.au",
+    "address": ["164 Ryde Road", "West Pymble NSW 2073"]
+  }
+}
